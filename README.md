@@ -7,7 +7,7 @@
 
 <br>
 
-<div align="center">
+<div align="">
   <a href="https://github.com/dom1ngos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dom1ngos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dom1ngos&layout=compact&langs_count=7&theme=dark"/>
